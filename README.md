@@ -1,3 +1,3 @@
-# plugin-queue
+# Bellows Queue Worker Plugin
 
-[https://bellows.dev](https://bellows.dev)
+[https://bellows.dev/docs/plugins/queue-worker](https://bellows.dev/docs/plugins/queue-worker)
